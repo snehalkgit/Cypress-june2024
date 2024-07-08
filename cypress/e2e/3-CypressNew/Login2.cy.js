@@ -50,6 +50,4 @@ describe('verify the contact-us form functionality', function () {
     })
 
 
-
-
 })
